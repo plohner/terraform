@@ -14,4 +14,4 @@ current-context: do-nyc1-k8s
 users:
 - name: do-nyc1-k8s-admin
   user:
-    token: dop_v1_475b2764c1cef33c4542d40dafebafcce468d3ca20385174789414f8fbe711d3
+    token: dop_v1_ff72b17da6872ef256f0d3ae37385bd37e4593fc22910928f0df481b6812d8ad
